@@ -8,10 +8,16 @@ https://twitter.com/a2kiti/status/1043686332847902721/video/1
 
 ## Requirement
 Processing
+
 NyARToolkit for processing
+
 themidibus
 
+
 USBcamera
+
 Guitar synthesizer (MIDI converter)
+
 MIDI interface
+
 Printing AR marker
