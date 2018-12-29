@@ -16,4 +16,5 @@ USBcamera / Guitar synthesizer (MIDI converter) / MIDI interface / Printing AR m
 ## Todo
 
 *Without Guitar synthesizer (MIDI converter)
+
  Using normal output signal with machine learning
